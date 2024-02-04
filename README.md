@@ -1,8 +1,10 @@
-<h1 align="center" >Nós nos importamos </h1> 
+<h1 >Nós nos importamos </h1> 
 <br>
-<p align="center"> Meu primeito projeto realizado no <a href="https://rodolfomori.com.br/devclub">DevClub</a> </p>
+<h2> Meu primeito projeto realizado no <a href="https://rodolfomori.com.br/devclub">DevClub</a> </h2>
+<br>
+<br>
 
-<img src="https://github.com/ValquiriaSilva/responsividade-projeto-devclub/blob/master/projeto%20responsividade.png?raw=true" />
+<img src="https://github.com/ValquiriaSilva/trabalho-We-care/blob/main/css/img/65730.png?raw=true" />
 <br>
 ## :computer: Technologies
 <br>
